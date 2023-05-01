@@ -41512,13 +41512,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
+  background-image: none;
   font-weight: 700;
   margin: -32px auto 25px 68px;
-}
-
-.u-header .u-btn-1 {
-  background-image: none;
-  padding: 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
