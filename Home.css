@@ -696,7 +696,6 @@
   grid-template-columns: 100%;
   grid-gap: 21px 21px;
   min-height: 125px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-6 .u-list-item-1 {
