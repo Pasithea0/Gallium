@@ -15,7 +15,7 @@
   100%{transform:rotate(360deg)}
 }
 
-html {
+html element.style {
     --purple6: #a98d00;
     --menuBackgroundRGBA: 249, 249, 250;
     --menuBoxShadow: #0000;
@@ -45,6 +45,6 @@ html {
     background-color: var(--darkColor) !important;
 }
 
-.darkTheme {
+.darkTheme .embed {
   --purple6: #a98d00;
 }
