@@ -14,7 +14,7 @@
   100%{transform:rotate(360deg)}
 }
 
-.darkTheme .embed-screen darkTheme {
+.embed .darkTheme .embed-screen darkTheme {
     --orange9: #35241E;
     --orange8: #753621;
     --orange7: #BC542A;
